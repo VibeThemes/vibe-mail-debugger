@@ -5,4 +5,4 @@ It will track all failed emails in Options panel. Where you will be able to loca
 
 For tracking BuddyPress mails also install this addon : https://wordpress.org/plugins/vibe-buddypress-to-wp-mail-fix/
 
-![Mail Debugger](/vibe-mail-debugger/debug_mails.png)
+<img src="https://raw.githubusercontent.com/VibeThemes/vibe-mail-debugger/main/debug_mails.png" />
